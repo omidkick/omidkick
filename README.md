@@ -21,7 +21,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <a href="https://github.com/omidkick?tab=followers">
+    <img src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+  </a>
 </p>
 
 </div>
@@ -104,60 +106,36 @@ I believe in the power of **clean code** and **intuitive design**. Every project
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
-### 🛒 [Supplino](https://www.supplino.ir)
-**Full-Stack E-Commerce Platform**
+<details open>
+<summary><h3>📦 Project Details</h3></summary>
 
-A complete online supplement shop built as my university thesis project. Features a modern UI, secure payment integration, and full product management system.
+<br>
 
-**Tech:** Next.js • Node.js • Express • Tailwind CSS
+<div align="center">
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omidkick/Supplino)
-[![Live](https://img.shields.io/badge/Live_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.supplino.ir)
+| 🛒 [**Supplino**](https://www.supplino.ir) | 📝 [**Blue Blog**](https://www.blue-blog.ir) |
+|:---:|:---:|
+| **Full-Stack E-Commerce Platform** | **Modern Blogging Platform** |
+| A complete online supplement shop built as my university thesis project. Features modern UI, secure payment integration, and full product management system. | A feature-rich blogging platform with markdown support, user authentication, and a clean, responsive design. Built to showcase content beautifully. |
+| **Tech Stack:** | **Tech Stack:** |
+| `Next.js` `Node.js` `Express` `Tailwind CSS` | `Next.js` `Node.js` `Express` `Tailwind CSS` |
+| [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omidkick/Supplino) [![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.supplino.ir) | [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omidkick/Blue-Blog-App) [![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.blue-blog.ir) |
 
-</td>
-<td width="50%">
+<br>
 
-### 📝 [Blue Blog](https://www.blue-blog.ir)
-**Modern Blogging Platform**
+| 💼 [**HubFreelance**](https://www.hubfreelance.ir) | 🚀 **More Projects** |
+|:---:|:---:|
+| **Freelancer Marketplace** | **Coming Soon...** |
+| A platform connecting clients with freelancers. Features project posting, bidding system, and user profiles with portfolio showcase. | Currently working on exciting new projects involving TypeScript and advanced React patterns. Stay tuned! |
+| **Tech Stack:** | **Current Focus:** |
+| `React.js` `Node.js` `Express` `Tailwind` `Vite` | `TypeScript` `Performance` `Accessibility` |
+| [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omidkick/hubfreelance) [![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.hubfreelance.ir) | [![Explore](https://img.shields.io/badge/Explore_More-0077B5?style=flat-square&logo=github&logoColor=white)](https://github.com/omidkick?tab=repositories) |
 
-A feature-rich blogging platform with markdown support, user authentication, and a clean, responsive design. Built to showcase content beautifully.
+</div>
 
-**Tech:** Next.js • Node.js • Express • Tailwind CSS
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omidkick/Blue-Blog-App)
-[![Live](https://img.shields.io/badge/Live_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.blue-blog.ir)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💼 [HubFreelance](https://www.hubfreelance.ir)
-**Freelancer Marketplace**
-
-A platform connecting clients with freelancers. Features project posting, bidding system, and user profiles with portfolio showcase.
-
-**Tech:** React.js • Node.js • Express • Tailwind CSS • Vite
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omidkick/hubfreelance)
-[![Live](https://img.shields.io/badge/Live_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hubfreelance.ir)
-
-</td>
-<td width="50%">
-
-### 🚀 More Projects Coming Soon...
-
-Currently working on exciting new projects involving TypeScript and advanced React patterns. Stay tuned!
-
-**Current Focus:** TypeScript • Performance Optimization • Accessibility
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
