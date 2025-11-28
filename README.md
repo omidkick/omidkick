@@ -5,36 +5,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Front-End+Developer+%F0%9F%9A%80;Building+Beautiful+Interfaces+%F0%9F%8E%A8;Crafting+User+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omid-jabbari-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/omid-jabbari-link" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.omidjabbari.ir">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.omidjabbari.ir" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://instagram.com/omidkick">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/omidkick" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:omidjabbari51@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- Profile Views -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye"
-    alt="Profile Views"
-  />
-
-  <!-- Followers -->
+  <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/omidkick?tab=followers">
-    <img 
-      src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=blue&logo=github&cacheSeconds=60"
-      alt="GitHub Followers"
-    />
+    <img src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white" alt="Followers" />
   </a>
+  <img src="https://img.shields.io/github/stars/omidkick?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github&logoColor=white" alt="Total Stars" />
 </p>
-
 
 </div>
 
