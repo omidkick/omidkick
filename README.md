@@ -1,15 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Omid Jabbari
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Omid%20Jabbari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-### Front-End Developer | UI Enthusiast | Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Front-End+Developer+%F0%9F%9A%80;Building+Beautiful+Interfaces+%F0%9F%8E%A8;Crafting+User+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Building+Beautiful+Interfaces;Crafting+User+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/omid-jabbari-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.omidjabbari.ir">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://instagram.com/omidkick">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:omidjabbari51@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omid-jabbari-link)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/omidkick)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/omidkick)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omidjabbari51@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+</p>
 
 </div>
 
@@ -77,6 +90,20 @@ I believe in the power of **clean code** and **intuitive design**. Every project
 
 ## 🎯 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/omidkick/Supplino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidkick&repo=Supplino&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/omidkick/Blue-Blog-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidkick&repo=Blue-Blog-App&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/omidkick/hubfreelance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omidkick&repo=hubfreelance&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+</div>
+
 <table>
 <tr>
 <td width="50%">
@@ -137,13 +164,36 @@ Currently working on exciting new projects involving TypeScript and advanced Rea
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omidkick&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=omidkick&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidkick&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omidkick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omidkick&theme=tokyonight&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidkick&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=omidkick&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+<details>
+<summary>📈 More GitHub Insights</summary>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omidkick&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidkick&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omidkick&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omidkick&theme=tokyonight&utcOffset=3.5" />
+</div>
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omidkick/omidkick/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -203,27 +253,66 @@ const goals2025 = {
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Open+to+new+opportunities!+%F0%9F%9A%80;Let's+build+something+amazing!+%F0%9F%92%AA;Always+excited+to+collaborate!+%E2%9C%A8" alt="Contact Typing SVG" />
+
+<br><br>
+
 I'm currently **open to new opportunities** and always excited to collaborate on interesting projects!
 
-**📧 Email:** [omidjabbari51@gmail.com](mailto:omidjabbari51@gmail.com)  
-**💼 LinkedIn:** [omid-jabbari-link](https://linkedin.com/in/omid-jabbari-link)  
-**📸 Instagram:** [@omidkick](https://instagram.com/omidkick)  
-**📱 Phone:** +98-9155325694
+<br>
+
+### 💬 Let's Chat!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omid-jabbari-link">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omidjabbari51@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.omidjabbari.ir">
+    <img src="https://img.shields.io/badge/Portfolio-Check_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+### 📞 Contact Details
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [omidjabbari51@gmail.com](mailto:omidjabbari51@gmail.com) |
+| 💼 **LinkedIn** | [omid-jabbari-link](https://linkedin.com/in/omid-jabbari-link) |
+| 🌐 **Portfolio** | [www.omidjabbari.ir](https://www.omidjabbari.ir) |
+| 📸 **Instagram** | [@omidkick](https://instagram.com/omidkick) |
+| 📱 **Phone** | +98-9155325694 |
+
+<br>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
 ### 💭 *"The best code is the code that solves real problems for real people."*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
-<img src="https://visitcount.itsvg.in/api?id=omidkick&icon=2&color=6" alt="Visit Counter" />
+<br>
 
 **⭐ If you like my work, consider giving my repos a star!**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
 <div align="center">
-<i>Built with ❤️ by Omid Jabbari</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<i>Built with ❤️ by Omid Jabbari | Last Updated: November 2024</i>
+
 </div>
