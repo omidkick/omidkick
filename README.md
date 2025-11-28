@@ -20,11 +20,21 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <!-- Profile Views -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=omidkick&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye"
+    alt="Profile Views"
+  />
+
+  <!-- Followers -->
   <a href="https://github.com/omidkick?tab=followers">
-    <img src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+    <img 
+      src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=blue&logo=github&cacheSeconds=60"
+      alt="GitHub Followers"
+    />
   </a>
 </p>
+
 
 </div>
 
