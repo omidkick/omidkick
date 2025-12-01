@@ -24,7 +24,8 @@
   <a href="https://github.com/omidkick?tab=followers">
     <img src="https://img.shields.io/github/followers/omidkick?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/omidkick?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github&logoColor=white" alt="Total Stars" />
+<img src="https://img.shields.io/github/stars/omidkick?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star&logoColor=white" alt="Total Stars" />
+
 </p>
 
 </div>
